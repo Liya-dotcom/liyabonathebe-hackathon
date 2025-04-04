@@ -6,8 +6,7 @@
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
-- [Customization](#customization)
-- [License](#license)
+
 
 ## Introduction
 
