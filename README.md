@@ -6,8 +6,7 @@
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
-- [Customization](#customization)
-- [License](#license)
+
 
 ## Introduction
 
@@ -36,7 +35,7 @@ Welcome to my personal portfolio website! This is a responsive website that show
 
 ## How to Use
 
-1. **View Online**: The website can be accessed through a live URL (if hosted)
+1. **View Online**: The website can be accessed through a live URL https://liya-dotcom.github.io/liyabonathebe-hackathon/
 2. **Local Setup**:
    - Clone or download this repository
    - Open `index.html` in any modern web browser
@@ -57,6 +56,3 @@ portfolio-website/
 ├── js/                # JavaScript folder
 │   └── app.js         # Main JavaScript file
 └── liyabona thebe.pdf # Downloadable CV
-```
-
-## License**Note for Beginners**: This is a great starter project to learn HTML, CSS, and JavaScript. The code is well-commented to help you understand how everything works. Happy coding!
